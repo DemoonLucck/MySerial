@@ -1,0 +1,22 @@
+cd \d:D:\Android\AndroidSDK\emulator
+emulator.exe -avd LargeDevice_API_28 -writable-system -qemu -serial COM2
+adb root
+adb remount
+adb -e push D:\ChromeDownload\su.pie /system/bin/su.pie
+adb shell
+cd /system/bin
+chmod 06755 su.pie
+su.pie --install
+su.pie --daemon&
+setenforce 0
+
+虚拟机崩溃失去root权限：
+emulator.exe -avd LargeDevice_API_28 -writable-system -qemu -serial COM2
+adb root
+adb remount
+adb shell
+cd /system/bin
+chmod 06755 su.pie
+su.pie --install
+su.pie --daemon&
+setenforce 0
