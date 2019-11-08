@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\myserial\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_285c4167222db11da86ca7eb97b31c4c7509bb92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myserial\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_e478ebd12077bf8a39b8b5a396f51fcf08ae9380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myserial\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2cbd5d72f351ebe796ffe66c5c07de7a0646e8e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myserial\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_909e3c15a8aed8137528abc6fae66cdb9b3bf12d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myserial\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_98f349fc75bdf34f1a5a639ec43257da8797ae0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myserial\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4ddc286e99b3e5767173e362e24ef46478f0f37b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myserial\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_067fdf9f76f959473e46fa735fb683f16edde04a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_edd9e4ee25a68d909d46ba44d86346de79ea8ea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myserial\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9af584147f6b9f26327f7c09338eba440cf373bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myserial\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_81b60243aabf021f2e0fe1428b31ceaef8bb7a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myserial\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_a67b60a8245473a5404b6c510811d38e3ba8cf16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myserial\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="F:\myserial\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_04411a2335aaa9700b0b0b76a9feed7b082772a7.jar" />
+    </item>
+
+</items>

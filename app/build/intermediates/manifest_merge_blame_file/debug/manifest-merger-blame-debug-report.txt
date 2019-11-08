@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="android_serialport_api.sample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml
+10    <!-- android:sharedUserId="android.uid.system" -->
+11    <supports-screens android:anyDensity="true" />
+11-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:7:5-51
+11-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:7:23-48
+12
+13    <meta-data
+13-->[com.android.support:support-v4:25.3.1] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\bf04084803e9f85f05e78b2f8943aaae\support-v4-25.3.1\AndroidManifest.xml:25:5-27:34
+14        android:name="android.support.VERSION"
+14-->[com.android.support:support-v4:25.3.1] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\bf04084803e9f85f05e78b2f8943aaae\support-v4-25.3.1\AndroidManifest.xml:26:9-47
+15        android:value="25.3.1" />
+15-->[com.android.support:support-v4:25.3.1] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\bf04084803e9f85f05e78b2f8943aaae\support-v4-25.3.1\AndroidManifest.xml:27:9-31
+16
+17    <application
+17-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:9:5-25:19
+18        android:name="android_serialport_api.sample.Application"
+18-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:10:9-36
+19        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+19-->[com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+20        android:debuggable="true"
+21        android:label="@string/app_name"
+21-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:11:9-41
+22        android:testOnly="true" >
+23        <activity android:name="android_serialport_api.sample.UpdateActivity" />
+23-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:12:9-61
+23-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:12:19-49
+24        <activity
+24-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:13:9-21:20
+25            android:name="android_serialport_api.sample.MainMenu"
+25-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:14:13-37
+26            android:label="@string/app_name" >
+26-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:15:13-45
+27            <intent-filter>
+27-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:16:13-20:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:17:17-69
+28-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:17:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:19:17-77
+30-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:19:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity android:name="android_serialport_api.sample.SerialPortPreferences" />
+33-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:22:9-68
+33-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:22:19-56
+34        <activity android:name="android_serialport_api.sample.ConsoleActivity" />
+34-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:23:9-62
+34-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:23:19-50
+35        <activity android:name="android_serialport_api.sample.SendingActivity" />
+35-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:24:9-53
+35-->C:\Users\lenovo\AndroidStudioProjects\myserial\app\src\main\AndroidManifest.xml:24:19-50
+36    </application>
+37
+38</manifest>
