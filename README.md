@@ -1,5 +1,5 @@
 # MySerial
-安卓连接串口项目
+安卓连接串口项目：type-C接口，车联网项目
 
 TestPortTools文件夹中有Root用的su.pie文件和串口调试工具
 
